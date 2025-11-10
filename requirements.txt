@@ -1,9 +1,0 @@
-langchain
-chromadb
-PyPDF2
-tiktoken
-openai
-python-dotenv
-streamlit
-pypdf
-sentence-transformers
